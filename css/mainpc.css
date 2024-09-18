@@ -17,7 +17,7 @@ header{
 header>button{
     width: 60px;
     height: 60px;
-    background: url('../original/go_top.png')no-repeat;
+    background: url('../images/go_top.png')no-repeat;
     background-size: 60px;
     position: fixed;
     bottom: 60px;
