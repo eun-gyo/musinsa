@@ -6,4 +6,5 @@
 
 body{
     font-family: "Roboto,Noto Sans", sans-serif;
+    overflow-x: hidden;
 }

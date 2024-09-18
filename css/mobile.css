@@ -132,6 +132,13 @@ header .inner .top_wrap h1 a{
     left: 20px;
     transform: translateY(-50%);
 }
+/* 주메뉴 overflow */
+header .inner .gnb{
+    width: 100%;
+    display: flex;
+    gap: 30px;
+    overflow-x: scroll;
+}
 /* 주메뉴 글자 크기 */
 header .inner .gnb .list>li>a{
     font-size: 18px;
